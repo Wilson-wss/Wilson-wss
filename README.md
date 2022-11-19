@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wilson-wss
+- 👋 #Hi, I’m @Wilson-wss
 - 👀 I’m interested in programming/coding.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
